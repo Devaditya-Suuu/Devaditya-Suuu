@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔨 I am currently working on:<br>A ResearchGate-style college research club website<br>A wildlife tracking wearable badge with energy harvesting<br>Exploring a cross-border payment platform<br>A potential esports startup in India<br><br>📚 I am currently learning:<br>MEAN Stack (MongoDB, Express.js, Angular, Node.js)<br>Three.js for 3D Web Development<br>little bit of IoT & Embedded<br><br>💬 Ask me about:<br>Full Stack Development (HTML, CSS, JS, MERN Stack)<br>Startups & Innovation (E-commerce, fintech, and IoT-based business ideas)
+🔨 I am currently working on:<br>A ResearchGate-style college research club website<br>A wildlife tracking wearable badge with energy harvesting<br>Exploring a cross-border payment platform<br>A potential esports startup in India<br><br>📚 I am currently learning:<br>Web3<br>Three.js for 3D Web Development<br>little bit of IoT & Embedded<br>Exploring Ai/Ml<br><br>💬 Ask me about:<br>Full Stack Development (HTML, CSS, JS, MERN Stack)<br>Startups & Innovation (E-commerce, fintech, and IoT-based business ideas)
 
 
 ## 🌐 Socials:
