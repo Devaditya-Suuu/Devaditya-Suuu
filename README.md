@@ -11,14 +11,8 @@
 ![](https://github-readme-stats.shion.dev/api?username=Devaditya-Suuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Devaditya-Suuu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Devaditya-Suuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Devaditya-Suuu&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Devaditya-Suuu&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devaditya-Suuu&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Devaditya-Suuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
